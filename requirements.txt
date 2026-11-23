@@ -1,0 +1,11 @@
+gymnasium
+stable-baselines3
+numpy
+pandas
+matplotlib
+gradio
+jupyter
+notebook
+langchain
+langchain-google-genai
+pyngrok
